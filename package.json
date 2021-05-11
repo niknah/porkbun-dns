@@ -15,7 +15,7 @@
   ],
   "author": "niknah",
   "license": "ISC",
-  "description": "",
+  "description": "Access to the Porkbun.com API using node or web browser.",
   "devDependencies": {
     "tap": "^15.0.9"
   }

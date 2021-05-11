@@ -1,5 +1,5 @@
 
-Access to the Porkbun.com API
+Access to the Porkbun.com API using node or web browser.
 
 ```
 const porkBunDNS = new PorkBunDNS("apikey", "secretapikey");
