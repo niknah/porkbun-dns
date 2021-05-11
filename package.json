@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "name": "@niknah/porkbun-dns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap",
+    "lint": "jshint --show-non-errors *.js test/*.js"
+  },
+  "keywords": [
+    "dns",
+    "porkbun"
+  ],
+  "author": "niknah",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tap": "^15.0.9"
+  }
+}
